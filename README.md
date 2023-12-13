@@ -6,7 +6,7 @@ Unlike rebane's, this tool is generally intended for larger sets of text with re
 
 ## Setting up:
 ### Creating a keywords JSON:
-Use `keywords_template.json` as a template and create a separate file to determine a set of words you want to be colored. \ Naming should be in the format `keywords_{name}.json`, where name (without the brackets) is the name you call at runtime.
+Use `keywords_template.json` as a template and create a separate file to determine a set of words you want to be colored. Naming should be in the format `keywords_{name}.json`, where name (without the brackets) is the name you call at runtime.
 
 Keywords should be entered into the empty lists of the template, surrounded by quotes and comma-separated (regular JSON format). Capitilization does not matter. Do not use words in the form \_\_\_\_s and \_\_\_\_ed, the tool will handle these for you.
 
