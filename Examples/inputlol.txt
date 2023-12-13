@@ -1,0 +1,67 @@
+Kindred nerfs:
+
+• E base slow reduced from 50% to 30%
+
+• E health ratio reduced from 8% missing to 5%
+
+Kha'Zix nerf:
+
+• Q bonus AD ratio reduced from 115% to 105%
+
+Kayn nerf:
+
+• W bonus AD ratio reduced from 130% to 100%
+
+Evelynn nerfs:
+
+• W slow reduced from 65% to 30%
+
+• E empowered base damage reduced from 75 - 175 to 65 - 165
+
+• R AP ratio reduced from 75% to 60%
+
+Jungle changes:
+
+• Epic monster damage reduction reduced from 20% to 5%
+
+• Damage against pets and champs changed from 20 - 160 (1 - 18) to 40 - 100 (6 - 18)
+
+• Slow duration reduced from 2 seconds to 1.5
+
+• Gustwalker MS reduced from 45% to 35%
+
+• Gustwalker monster takedown MS reduced from 60% to 45%
+
+• Mosstomper tenacity and slow resist reduced from 20% to 10%
+
+• Mosstomper shield changed from 60 - 281 to (1 - 18) to 120 - 220 (8 - 18)
+
+Comment: Slow duration is for champ smiting in case that wasn't clear, though for some reason not all the smites were updated
+
+(Edit: Phreak mentioning about backtracking system changes while the other changes will most likely go through)
+
+Stridebreaker changes:
+
+• Health increased from 300 to 450 (450 to 600 for Ornn version)
+
+• AD reduced from 60 to 55 (70 to 65 for Ornn version)
+
+Goredrinker changes:
+
+• Caulfield's Warhammer replaced by Phage in recipe (total gold cost unchanged at 3200)
+
+• Health increased from 300 to 450 (450 to 600 for Ornn version)
+
+• AD reduced from 55 to 50 (70 to 65 for Ornn version)
+
+Spear of Shojin changes:
+
+• Caulfield's Warhammer replaced by Winged Moonplate in recipe (total gold cost unchanged at 3300)
+
+• Health increased from 350 to 500
+
+• AD reduced from 65 to 60
+
+• Basic ability haste increased from 8/6 to 16/12
+
+• Ability haste bonus AD ratio reduced from 8%/6% to 4%/3%

@@ -1,0 +1,93 @@
+{
+    "black": [
+
+    ],    
+
+    "red" : [
+        "Nerf", "Nerfed", "Nerf!", "Nerfed!", "Nerfs!", "Reduced", "Reduces", "Reduce"
+    ],     
+
+    "green" : [
+        "Buff", "Buffed", "Buff!", "Buffed!", "Buffs!", "Increased", "Increases", "Increase"
+    ],
+
+    "yellow" : [
+        "Cull", "Dark", "Seal", "Doran's", "Blade", "Doran's", "Ring", "Doran's", "Shield", "Guardian's", "Amulet", "Guardian's", "Blade", "Guardian's", "Dirk", "Guardian's", "Hammer", "Guardian's", "Horn", "Guardian's", "Orb", "Guardian's", "Shroud", "Gustwalker", "Hatchling", "Mosstomper", "Seedling", "Relic", "Shield", "Scorchclaw", "Pup", "Spectral", "Sickle", "Spellthief's", "Edge", "Steel", "Shoulderguards", "Tear", "Goddess", "Berserker's", "Greaves", "Boots", "Boots", "Swiftness", "Ghostcrawlers", "Ionian", "Boots", "Lucidity", "Mercury's", "Treads", "Mobility", "Boots", "Plated", "Steelcaps", "Sorcerer's", "Shoes", "Amplifying", "Tome", "B.", "F.", "Sword", "Blasting", "Wand", "Broken", "Stopwatch", "Cloak", "Agility", "Cloth", "Armor", "Dagger", "Faerie", "Charm", "Long", "Sword", "Needlessly", "Large", "Rod", "Null-Magic", "Mantle", "Pickaxe", "Rejuvenation", "Bead", "Ruby", "Crystal", "Sapphire", "Crystal", "Sheen", 
+        "Stopwatch", "Aegis", "Legion", "Aether", "Wisp", "Bami's", "Cinder", "Bandleglass", "Mirror", "Blighting", "Jewel", "Bramble", "Vest", "Catalyst", "Aeons", "Caulfield's", "Warhammer", "Chain", "Vest", "Chalice", "Blessing", "Crystalline", "Bracer", "Executioner's", "Calling", "Fiendish", "Codex", "Forbidden", "Idol", "Frostfang", "Giant's", "Belt", "Glacial", "Buckler", 
+        "Harrowing", "Crescent", "Hearthbound", "Axe", "Hexdrinker", "Hextech", "Alternator", "Ironspike", "Whip", "Kindlegem", "Kircheis", "Shard", "Last", "Whisper", "Leeching", "Leer", "Lifewell", "Pendant", "Lost", "Chapter", "Negatron", "Cloak", "Noonquiver", "Oblivion", "Orb", "Phage", "Quicksilver", "Sash", "Rageknife", "Recurve", "Bow", "Runesteel", "Spaulders", "Seeker's", "Armguard", "Serrated", "Dirk", "Spectre's", "Cowl", "Targon's", "Buckler", "Tiamat", "Vampiric", "Scepter", "Verdant", "Barrier", "Warden's", "Mail", "Watchful", "Wardstone", "Winged", "Moonplate", "Zeal", "Abyssal", "Mask", "Anathema's", "Chains", "Archangel's", "Staff", "Ardent", "Censer", "Atma's", "Reckoning", "Axiom", "Arc", "Banshee's", "Veil", "Black", "Cleaver", "Black", "Mist", "Scythe", "Blade", "Ruined", "King", "Bloodletter's", "Curse", "Bloodthirster", "Bulwark", "Mountain", "Chempunk", "Chainsword", "Chemtech", "Putrifier", "Cosmic", "Drive", "Dead", "Man's", "Plate", "Death's", "Dance", "Demonic", "Embrace", "Edge", "Night", "Essence", "Reaver", "Fimbulwinter", "Force", "Nature", "Frozen", "Heart", "Frozen", "Mallet", "Gargoyle", "Stoneplate", "Guardian", "Angel", "Hellfire", "Hatchet", "Hextech", "Gunblade", "Horizon", "Focus", "Hullbreaker", "Immortal", "Shieldbow", "Imperial", "Mandate", "Knight's", 
+        "Vow", "Kraken", "Slayer", "Lich", "Bane", "Lightning", "Braid", "Lord", "Dominik's", "Regards", "Manamune", "Maw", "Malmortius", "Mejai's", "Soulstealer", "Mercurial", "Scimitar", "Mikael's", "Blessing", "Morellonomicon", "Mortal", "Reminder", "Muramana", "Nashor's", "Tooth", "Pauldrons", "Whiterock", "Perplexity", "Phantom", "Dancer", "Prowler's", "Claw", "Rabadon's", "Deathcap", "Randuin's", "Omen", "Rapid", "Firecannon", "Ravenous", "Hydra", "Redemption", "Rite", "Ruin", "Runaan's", "Hurricane", "Rylai's", "Crystal", "Scepter", "Seraph's", "Embrace", 
+        "Serpent's", "Fang", "Serylda's", "Grudge", "Shadowflame", "Shard", "True", "Ice", "Silvermere", "Dawn", "Sin", "Eater", "Spear", "Shojin", "Spectral", "Cutlass", "Spirit", "Visage", "Staff", "Flowing", "Water", "Statikk", "Shiv", "Sterak's", "Gage", "Stormrazor", "Sunfire", "Aegis", "Sword", "Blossoming", "Dawn", "The", "Collector", "Thornmail", "Titanic", "Hydra", "Turbo", "Chemtank", "Umbral", "Glaive", "Vigilant", "Wardstone", "Void", "Staff", "Warmog's", "Armor", "Winter's", "Approach", "Wit's", "End", "Wordless", "Promise", "Zeke's", "Convergence", 
+        "Zephyr", "Zhonya's", "Hourglass", "Crown", "Shattered", "Queen", "Divine", "Sunderer", "Duskblade", "Draktharr", "Echoes", "Helia", "Eclipse", "Evenshroud", "Everfrost", "Galeforce", "Goredrinker", "Guinsoo's", "Rageblade", "Heartsteel", "Hextech", "Rocketbelt", "Iceborn", "Gauntlet", "Infinity", "Edge", "Jak'Sho,", "The", "Protean", "Liandry's", "Anguish", "Locket", "Iron", "Solari", "Luden's", "Tempest", "Moonstone", "Renewer", "Navori", "Quickblades", "Night", "Harvester", "Radiant", "Virtue", "Riftmaker", "Rod", "Ages", "Shurelya's", "Battlesong", "Stridebreaker", "Trinity", "Force", "Youmuu's", "Ghostblade"
+    ],
+
+    "blue" : [
+        "Aatrox", "Ahri", "Akali",
+        "Akshan", "Alistar", "Amumu",
+        "Anivia", "Annie", "Aphelios",
+        "Ashe", "AurelionSol", "Azir",
+        "Bard", "Belveth", "Blitzcrank",
+        "Brand", "Braum", "Briar",
+        "Caitlyn", "Camille", "Cassiopeia",
+        "Chogath", "Corki", "Darius",
+        "Diana", "Draven", "DrMundo",
+        "Ekko", "Elise", "Evelynn",
+        "Ezreal", "Fiddlesticks", "Fiora",
+        "Fizz", "Galio", "Gangplank",
+        "Garen", "Gnar", "Gragas",
+        "Graves", "Gwen", "Hecarim",
+        "Heimerdinger", "Illaoi",
+        "Irelia", "Ivern", "Janna",
+        "JarvanIV", "Jax", "Jayce",
+        "Jhin", "Jinx", "Kaisa",
+        "Kalista", "Karma", "Karthus",
+        "Kassadin", "Katarina", "Kayle",
+        "Kayn", "Kennen", "Khazix",
+        "Kindred", "Kled", "KogMaw",
+        "KSante", "Leblanc", "LeeSin",
+        "Leona", "Lillia", "Lissandra",
+        "Lucian", "Lulu", "Lux",
+        "Malphite", "Malzahar", "Maokai",
+        "MasterYi", "Milio", "MissFortune",
+        "MonkeyKing", "Mordekaiser", "Morgana",
+        "Naafiri", "Nami", "Nasus",
+        "Nautilus", "Neeko", "Nidalee",
+        "Nilah", "Nocturne", "Nunu",
+        "Olaf", "Orianna", "Ornn",
+        "Pantheon", "Poppy", "Pyke",
+        "Qiyana", "Quinn", "Rakan",
+        "Rammus", "RekSai", "Rell",
+        "Renata", "Renekton", "Rengar",
+        "Riven", "Rumble", "Ryze",
+        "Samira", "Sejuani", "Senna",
+        "Seraphine", "Sett", "Shaco",
+        "Shen", "Shyvana", "Singed",
+        "Sion", "Sivir", "Skarner",
+        "Sona", "Soraka", "Swain",
+        "Sylas", "Syndra", "TahmKench",
+        "Taliyah", "Talon", "Taric",
+        "Teemo", "Thresh", "Tristana",
+        "Trundle", "Tryndamere",
+        "TwistedFate", "Twitch", "Udyr",
+        "Urgot", "Varus", "Vayne",
+        "Veigar", "Velkoz", "Vex",
+        "Vi", "Viego", "Viktor",
+        "Vladimir", "Volibear", "Warwick",
+        "Xayah", "Xerath", "XinZhao",
+        "Yasuo", "Yone", "Yorick",
+        "Yuumi", "Zac", "Zed",
+        "Zeri", "Ziggs", "Zilean",
+        "Zoe", "Zyra"
+    ],
+
+    "magenta" : [
+        "TLDR", "Tldr"
+    ],
+
+    "cyan": [
+        
+    ],
+
+    "white": [
+
+    ]
+}

@@ -1,0 +1,80 @@
+tldr
+
+Byzantines
+    - starts with more stone (faster age up?)
+
+    - big hippodrome nerf (LFG!!!!)
+        - starts with 10 points instead of 30
+        - points last 1s instead of 1.5s
+        - tldr went from 45s -> 10s on ageup
+
+    - cataphract HP and dmg nerf in imp
+
+
+French + jd
+    - guild hall stone nerf (100% -> 50%)
+
+Japanese
+    - feudal landmark only garrisons 4
+
+    - castle yorishiro landmark (infinite relic generator) now generates a priest with every yorishiro + they spawn faster
+        - (big nerf!) can now only have 4 yorishiro in the game (won't spawn extra priests)
+
+    - big imp nerfs - ozutusu (broken siege/handcannon unit) landmark large nerf
+        - melee armor 4-> 0
+        - dmg (aoe) 38->25 (siege damage looks untouched)
+        - starting ozutusu on completion 5->2
+
+Malian
+    - slight cow nerf 28->25 (castle landmark unaffected)
+
+ottoman
+    - great bombard nerfed pop 3-> 4 (finally)
+
+ayyubid
+    - age up nerf 105s -> 120s
+
+    - gamble wing nerf
+        - cost to buy nerf (feudal only because only important one) 125 -> 150
+        - resources received buff 200 -> 225
+        - nerf !!! CANNOT BUY VILLAGERS !!!
+        - options nerf 5->4
+
+    - +1/+1 armor buff to camels with tech in castle (13/8 desert raiders 💀💀💀)
+
+    - tower of sultan buff 240s -> 200s
+
+    - dervish (monk) hp nerf 155 -> 120
+
+    - might be a fast castle nerf indirectly 
+
+JD
+    - boar xp nerf 50->25 ):
+    
+    - Jeanne's champs (maa) nerf 4/4 -> 3/3
+
+    - guild hall stone nerf 100 -> 50
+
+ootd
+    - more wood (maybe easier dark age rush?)
+
+    - slight maa buff (dmg reduction at 30% vs 20%)
+
+zhu xi
+    - bald men ranged armor nerf 2->0 (4->0 if you include their ability)
+
+    - late imp knight rebalancing (imperial guard)
+        - dmg nerf 35-> 28
+        - hp nerf 350 ->340
+        - melee armor buff 6 -> 10 💀💀💀💀💀
+        - ranged armor nerf 6->3
+        - tldr anti-melee, gets ripped by crossbow handcannon
+
+NERF
+nerf
+Nerf
+NeRF
+BUFF
+buff
+Buff
+BuFF

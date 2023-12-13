@@ -1,0 +1,39 @@
+{
+    "black": [
+
+    ],    
+    "red" : [
+        "nerf"
+    ],     
+    "green" : [
+        "buff"
+    ],
+    "yellow" : [
+
+    ],
+    "blue" : [
+        "Byzantine", "Byz",
+        "Chinese", "China", 
+        "Delhi", "Dehli", 
+        "English", "Eng",
+        "French", "Holy Roman Empire", 
+        "HRE", "Japanese", 
+        "Japan", "Jeanne d'Arc", 
+        "Jeanne dArc", "JD", 
+        "JohnDark", "Mongol", 
+        "OOTD", "Ottoman",
+        "Otto", "Rus", 
+        "Zhu Xi'", "Zhu Xi's Legacy",
+        "Juicy", "Ayyubid", "Ayyu",
+        "Ayuubid", "Malian"
+    ],
+    "magenta" : [
+        "tldr"
+    ],
+    "cyan": [
+        
+    ],
+    "white": [
+
+    ]
+}
