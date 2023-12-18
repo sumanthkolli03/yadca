@@ -88,7 +88,9 @@ def colorize(colors, colordict, retext):
 def output(joined):
     #outputs the final file
     #amount of outputs is determined by nitro/message length
-    if (len(joined) > 1900) and (not args.nitro):
+    msgMax = 1900 if not args.nitro else 3900
+
+    if len(joined) > msgMax:
         lines = joined.split("\n")
         print("Creating Chunks")
         chunks = []
@@ -111,7 +113,7 @@ def output(joined):
 
     else:
         output = "```ansi" + "\n" + joined + "\n" + "```" 
-        with open("outn.txt", "w", encoding="utf-16") as f:
+        with open("out0.txt", "w", encoding="utf-16") as f:
             f.write(output)
             print("outputted")
 

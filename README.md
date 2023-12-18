@@ -36,3 +36,5 @@ returns the following:
 and looks like this on discord:
 
 ![discord](/Examples/discord.png)
+
+Discord Bot support coming soon!
